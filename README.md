@@ -1,10 +1,4 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
 
 
+https://github.com/Vaseky21/pocasi-app/assets/60448270/22ef9d26-fda2-4793-a915-9b29973c6767
 
